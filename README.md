@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wizvivek
 - 👀 I’m interested in open source projects .
- 
-- 💞️ I’m looking to collaborate on open source projects.
+- 🌏 I’m looking to collaborate on open source projects. 
+-  I am interested in full stack web development.
 
 
 <!---
